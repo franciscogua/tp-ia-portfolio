@@ -1,6 +1,6 @@
 # Portfolio Interactivo con Asistencia de IA
 
-Este es un portfolio web interactivo desarrollado como Trabajo Práctico final para el curso **IA Aplicada a Contextos Organizacionales**.
+Este es un portfolio web interactivo desarrollado como Trabajo Práctico para el curso **IA Aplicada a Contextos Organizacionales**.
 
 El proyecto está desplegado y puede ser visitado en vivo.
 
